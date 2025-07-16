@@ -1,6 +1,6 @@
 # MCP Server
 
-This project is an MCP (Multi-Agent Conversation Protocol) Server for the given OpenAPI URL - https://api.apis.guru/v2/specs/openbankingproject.ch/1.3.8_2020-12-14 - Swiss edition 1.3.8.1-CH/openapi.json, auto-generated using AG2's [MCP builder](https://mcp.ag2.ai).
+This project is an MCP (Model Context Protocol) Server for the given OpenAPI URL - https://api.apis.guru/v2/specs/openbankingproject.ch/1.3.8_2020-12-14 - Swiss edition 1.3.8.1-CH/openapi.json, auto-generated using AG2's [MCP builder](https://mcp.ag2.ai).
 
 ## Prerequisites
 
